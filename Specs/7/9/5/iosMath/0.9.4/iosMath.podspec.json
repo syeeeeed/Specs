@@ -39,4 +39,5 @@
     "frameworks": "AppKit"
   },
   "requires_arc": true
-}
+}pod install
+
